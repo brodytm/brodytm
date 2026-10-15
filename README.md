@@ -4,7 +4,7 @@ Im 17 Years Old, Arriving Old Dominion University Student majoring in Computer S
 
 
 **Projects** 
-
+Starting to learn the fundamentals to build a demo app.
 
 **Certifications**
 
