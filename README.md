@@ -4,7 +4,8 @@ Im 17 Years Old, Arriving Old Dominion University Student majoring in Computer S
 
 
 **Projects** 
-Starting to learn the fundamentals to build a demo app.
+Building a demo app
+Planned - HB100 based Radar Detector
 
 **Certifications**
 
