@@ -1,6 +1,6 @@
 **Quick Info**
 Hello, My name is Brody
-Arriving Old Dominion University Student majoring in Computer Science, Starting fall of 2027.
+17 years old, Arriving Old Dominion University Student majoring in Computer Science, Starting fall of 2027.
 
 **Projects** 
 Building a demo app
