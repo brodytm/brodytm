@@ -7,5 +7,5 @@ Hello, My name is Brody
 -Planned: adsb-tracker (Legally Track aircraft with an RTL-SDR, Python, and SQLite.)
 
 **Coursework**
-In progress of CS50P (Harvard).
+-In progress of: Python MOOC 2026 
 Learning SQL basics with SQL BOLT.
