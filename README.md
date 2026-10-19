@@ -4,7 +4,7 @@ Arriving Old Dominion University Student majoring in Computer Science, Starting 
 
 **Projects** 
 Building a demo app
-Planned - HB100 based Radar Detector
+Planned - adsb-tracker (Legally Track aircraft with an RTL-SDR, Python, and SQLite.)
 
 **Coursework**
 -Currently studying Python with University of Helsinki Python Programming MOOC (10/2026)
