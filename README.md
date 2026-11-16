@@ -5,10 +5,8 @@
 **Projects** 
 - Completed: BMI Calculator (First project built with Python)
 
-- Building a demo app
-
-- Planned: adsb-tracker (Legally Track aircraft with an RTL-SDR, Python, and SQLite.)
+- Single-stage custom rocket designed and simulated with OpenRocket
 
 **Coursework**
 - In progress of: Python MOOC 2026
-- Completing Hack the Box Pre Security Path
+
