@@ -1,6 +1,6 @@
 **Quick Info**
 - Hello, My name is Brody
-- 17 years old, Arriving Old Dominion University Student majoring in Cyber Security, Starting fall of 2027.
+- 17 years old, Planning to Major in Aerospace Engineering 
 
 **Projects** 
 - Completed: BMI Calculator (First project built with Python)
